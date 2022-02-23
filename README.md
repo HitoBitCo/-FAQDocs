@@ -1,4 +1,4 @@
-# HitoBitDocs
+# FAQDocs
 ***
 This repository contains the documentation website code and Markdown source files for HitoBit.
 #
@@ -6,7 +6,7 @@ This repository contains the documentation website code and Markdown source file
 [help.HitoBit.com/docs](https://HitoBit.com/docs) -->
 
 #
-You can edit Docs content by using the GitHub web editor and editing a file. This is best suited for typos and small changes.
+You can edit Docs content by using the GitHub web editor and editing a file. This is best suited for types and small changes.
 #
 Thank you for your contributions.
 
