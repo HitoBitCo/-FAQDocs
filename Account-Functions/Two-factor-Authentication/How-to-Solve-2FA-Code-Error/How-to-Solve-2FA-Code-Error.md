@@ -10,4 +10,4 @@
 
 
 اگر هیچ یک از پیشنهادهای بالا نتوانست مشکل شما را حل کند، پیشنهاد می‌کنیم Google Authenticator خود را بازیابی کنید.
-لطفاً روش‌های [https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Two-factor-Authentication/How-to-Reset-Google-Authentication/How-to-Reset-Google-Authentication.md](نحوه بازیابی احراز هویت گوگل) را مطالعه کنید.
+لطفاً روش‌های [نحوه بازیابی احراز هویت گوگل](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Two-factor-Authentication/How-to-Reset-Google-Authentication/How-to-Reset-Google-Authentication.md) را مطالعه کنید.
