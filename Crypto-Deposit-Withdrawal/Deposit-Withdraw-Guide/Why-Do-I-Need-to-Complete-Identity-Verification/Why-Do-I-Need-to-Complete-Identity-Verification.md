@@ -1,8 +1,8 @@
 # چرا باید احراز هویت را تکمیل کنم؟
 
-هیتوبیت از کاربران می‌خواهد که احراز هویت را تکمیل کنند تا امنیت حساب خود را افزایش دهند. اگر مراحل احراز هویت را کامل نکرده‌اید، لطفاً به [«مراحل احراز هویت در هیتوبیت»](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Identity-Verification/How-to-Complete-Identity-Verification/How-to-Complete-Identity-Verification.md) مراجعه کنید.
+برای افزایش امنیت حساب، هیتوبیت از شما می‌خواهد که احراز هویت خود را تکمیل کنید. اگر مراحل احراز هویت را کامل نکرده‌اید، لطفاً به [مراحل احراز هویت در هیتوبیت](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Identity-Verification/How-to-Complete-Identity-Verification/How-to-Complete-Identity-Verification.md) مراجعه کنید.
 
-### اگر در زمینه برداشت رمزارز مشکل دارید، لطفاً راه‌حل‌های زیر را مطالعه کنید:
+### مواردی که نیاز است احراز هویت انجام دهید:
 
 - شما از چندین آدرس IP به‌حساب خود دسترسی دارید
 اگر از چندین آدرس IP به‌حساب خود دسترسی دارید، سیستم آن را "مشکوک" تلقی می‌کند و برای محافظت از دارایی‌های شما به طور موقت برداشت از حساب شما را متوقف می‌کند.
