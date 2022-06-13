@@ -44,7 +44,7 @@
 
 1- اگر کد 16 رقمی ایجاد شده در هنگام فعال‌کردن Google Authenticator یادداشت کرده‌اید، می‌توانید به‌سادگی با واردکردن کلید پشتیبان در برنامه، Google Authenticator خود را دوباره فعال کنید.
 
-2- اگر کلید پشتیبان را ذخیره نکرده‌اید، حساب Google Authenticator خود را (https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Two-factor-Authentication/How-to-Reset-Google-Authentication/How-to-Reset-Google-Authentication.md)[بازیابی] کنید و مجدد حساب Google Authenticator جدید ایجاد کنید.
+2- اگر کلید پشتیبان را ذخیره نکرده‌اید، حساب Google Authenticator خود را بازیابی کنید و مجدد حساب Google Authenticator جدید ایجاد کنید. لطفاً به نحوه [بازیابی احراز هویت گوگل](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Two-factor-Authentication/How-to-Reset-Google-Authentication/How-to-Reset-Google-Authentication.md) مراجعه کنید.
 
 ### **3.**	وقتی "خطای کد 2FA" را نشان می‌دهد، چه کاری می‌توانم انجام دهم؟
 
