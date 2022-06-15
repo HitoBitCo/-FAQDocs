@@ -17,5 +17,5 @@
 ![photo](How-to-Deposit-Fiat-with-Credit-card4.png)
 
 
-**5.**	در صورت موفق بودن وضعیت واریز، رسید آن برای شما صادر شده و مبلغ به موجودی ریالی شما اضافه می‌شود. در این مرحله می‌توانید جفت‌های معاملاتی موجود را در صفحه ![بازار](https://github.com/HitoBitCo/FAQDocs/blob/main/Hitobit-Get-Started/How-to-Use-Convert/How-to-Use-Convert.md) بررسی کنید و معامله را شروع کنید.
+**5.**	در صورت موفق بودن وضعیت واریز، رسید آن برای شما صادر شده و مبلغ به موجودی ریالی شما اضافه می‌شود. در این مرحله می‌توانید جفت‌های معاملاتی موجود را در صفحه [بازار](https://github.com/HitoBitCo/FAQDocs/blob/main/Hitobit-Get-Started/How-to-Use-Convert/How-to-Use-Convert.md) بررسی و معامله را شروع کنید.
 
