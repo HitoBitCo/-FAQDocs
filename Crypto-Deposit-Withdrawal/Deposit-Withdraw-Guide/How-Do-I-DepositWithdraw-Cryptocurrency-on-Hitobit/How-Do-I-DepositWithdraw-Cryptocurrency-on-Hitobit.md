@@ -4,6 +4,10 @@
 
 -	برای برداشت رمزارزها پس از ورود به‌حساب کاربری خود بر روی منوی **[کیف پول]** کلیک کنید. گزینه برداشت را انتخاب کنید، رمزارز، آدرس، شبکه گیرنده و مقدار برداشت را وارد کنید.
 
+![photo](How-Do-I-DepositWithdraw-Cryptocurrency-on-Hitobit1.png)
+
+![photo](How-Do-I-DepositWithdraw-Cryptocurrency-on-Hitobit2.png)
+
 > توجه داشته باشید که همیشه قبل از سفارش واریز ارز دیجیتال، از صحت آدرس کیف پولی که به آن پرداخت می‌کنید، مطمئن شوید. برای اطلاعات بیشتر مقاله [نحوه برداشت از هیتوبیت](https://github.com/HitoBitCo/FAQDocs/blob/main/Crypto-Deposit-Withdrawal/Crypto-Withdrawal/How-to-Withdraw-from-Hitobit/How-to-Withdraw-from-Hitobit.md) مطالعه کنید.
 
 
