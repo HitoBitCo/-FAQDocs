@@ -21,4 +21,4 @@
 
 > در صورتی که کاربری کارت ملی ندارد، میتواند از تصویر شناسنامه جدید عکس‌دار (حاوی شماره ملی) یا پاسپورت استفاده کند.
 
-![photo](HowToUpgradeFromLevel1To22.png)
+![photo](HowToUpgradeFromLevel1To22.jpg)
