@@ -2,6 +2,7 @@
 # ثبت‌نام در سایت هیتوبیت
 
 **1.** وارد سایت  هیتوبیت شوید و روی **[ثبت‌نام]** کلیک کنید.
+
 ![photo](How-to-Register-on-Hitobit1.png)
 
 **2.**	بر روی ایجاد حساب کلیک کنید و به مرحله بعد بروید.
@@ -29,6 +30,7 @@
 ![photo](How-to-Register-on-Hitobit6.png)
 
 **6.**	تبریک می‌گوییم، شما با موفقیت در هیتوبیت ثبت‌نام کردید.
+
 ![photo](How-to-Register-on-Hitobit7.png)
 
 **7.**	برای افزایش امنیت حساب خود، از صفحه داشبورد روی [احراز هویت دوعاملی](https://github.com/HitoBitCo/FAQDocs/edit/main/Account-Functions/Identity-Verification/How-to-Complete-Identity-Verification/How-to-Complete-Identity-Verification.md) کلیک کنید تا احراز هویت دوعاملی (2FA)، از جمله تأیید تلفن و احراز هویت گوگل فعال شود.
