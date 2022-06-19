@@ -1,6 +1,15 @@
 
 # ثبت‌نام در سایت هیتوبیت
 
+با ثبت نام در هیتوبیت شما در سطح 1 حساب کاربری قرار می‌گیرید.اطلاعات مورد نیاز برای ثبت نام در هیتوبیت:
+
+- شماره موبایلی که به نام خودتان باشد
+
+- نام، نام خانوادگی و کد ملی
+
+برای ثبت‌ نام به ترتیب مراحل زیر اقدام کنید:
+
+
 **1.** وارد سایت  هیتوبیت شوید و روی **[ثبت‌نام]** کلیک کنید.
 
 ![photo](How-to-Register-on-Hitobit1.png)
@@ -34,4 +43,5 @@
 ![photo](How-to-Register-on-Hitobit7.png)
 
 **7.**	برای افزایش امنیت حساب خود، از صفحه داشبورد روی [احراز هویت دوعاملی](https://github.com/HitoBitCo/FAQDocs/edit/main/Account-Functions/Identity-Verification/How-to-Complete-Identity-Verification/How-to-Complete-Identity-Verification.md) کلیک کنید تا احراز هویت دوعاملی (2FA)، از جمله تأیید تلفن و احراز هویت گوگل فعال شود.
+
 
