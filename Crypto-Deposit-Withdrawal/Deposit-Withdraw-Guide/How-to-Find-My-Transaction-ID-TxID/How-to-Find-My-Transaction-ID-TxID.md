@@ -13,11 +13,11 @@
 
 **1.** وارد حساب هیتوبیت خود شده، از قسمت **[کیف پول]**، بر روی **[تاریخچه‌‌ی تراکنش‌ها]** کلیک کنید.
 
-![photo](How-to-Find-My-Transaction-ID-TxID1.png)
+![photo](How-to-Find-My-Transaction-ID-TxID2.png)
 
 **2.** بر روی رمز **[ارز]** کلیک کنید. در این صفحه می‌توانید تاریخچه تمام واریزها و برداشت‌های گذشته خود را جست و جو و txID را در ستون انتهایی مشاهده کتید.
 
-![photo](How-to-Find-My-Transaction-ID-TxID2.png)
+![photo](How-to-Find-My-Transaction-ID-TxID1.png)
 
 در صورتی که تراکنش داخلی باشد، txID همانند شماره 1 و زمانی که تراکنش خارجی باشد، txID همانند شماره 2 خواهد بود.   
 
