@@ -9,7 +9,7 @@
 <br>
 
 ## مرحله 1: ثبت‌نام در هیتوبیت
- تنها با شماره موبایل و نام و نام خانوادگی می‌از طریق سایت یا اپلیکیشن هیتوبیت [ثبت‌نام](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Guide-to-Account-Functions/How-to-Register-on-Hitobit/How-to-Register-on-Hitobit.md) کنید.
+ تنها با شماره موبایل و نام و نام خانوادگی می‌توانید از طریق سایت یا اپلیکیشن هیتوبیت [ثبت‌نام](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Guide-to-Account-Functions/How-to-Register-on-Hitobit/How-to-Register-on-Hitobit.md) کنید.
 
 ## مرحله 2: احراز هویت<br>
 برای شروع و افزایش سقف واریز و برداشت، لازم است احراز هویت خود را تکمیل کنید. این مرحله شامل تأیید اطلاعات اولیه حساب شما، بارگذاری مدارک شناسایی و یک عکس سلفی می‌باشد.
