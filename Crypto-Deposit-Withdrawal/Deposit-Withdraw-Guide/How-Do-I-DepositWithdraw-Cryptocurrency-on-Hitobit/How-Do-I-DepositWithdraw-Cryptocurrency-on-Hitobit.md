@@ -1,15 +1,20 @@
 # واریز و برداشت ارزهای دیجیتال  در هیتوبیت
+	1. برای واریز رمزارزها پس از ورود به حساب کاربری خود بر روی منوی **[کیف پول]** و سپس **[کیف پول من]** کلیک کنید.
+    
+![منو کیف پول در صفحه داشبورد](How-Do-I-DepositWithdraw-Cryptocurrency-on-Hitobit1.png)
 
--	برای واریز رمزارزها پس از ورود به‌حساب کاربری خود بر روی منوی **[کیف پول]** کلیک کنید. گزینه واریز را انتخاب کنید سپس ارز مورد نظر و شبکه خود را انتخاب کنید. آدرس ارز دیجیتال را کپی کنید یا از یک اسکنر کد QR استفاده کنید. پس از دریافت تأییدیه‌های مورد نیاز از شبکه، مبلغ واریز به حساب شما اضافه می‌شود. برای اطلاعات بیشتر مقاله [نحوه واریز رمزارز به هیتوبیت](https://github.com/HitoBitCo/FAQDocs/blob/main/Crypto-Deposit-Withdrawal/Crypto-Deposit/How-to-Deposit-Crypto-to-Hitobit/How-to-Deposit-Crypto-to-Hitobit.md) مطالعه کنید.
+   2. گزینه **[واریز]** را انتخاب و سپس ارز مورد نظر و شبکه خود را وارد کنید.
 
--	برای برداشت رمزارزها پس از ورود به‌حساب کاربری خود بر روی منوی **[کیف پول]** کلیک کنید. گزینه برداشت را انتخاب کنید، رمزارز، آدرس، شبکه گیرنده و مقدار برداشت را وارد کنید.
+   ![واریز و برداشت از کیف پول](deposit-withdraw-cryptocurrency.png)
 
-![photo](How-Do-I-DepositWithdraw-Cryptocurrency-on-Hitobit1.png)
+ برای اطلاعات بیشتر مقاله [نحوه واریز رمزارز به هیتوبیت](https://github.com/HitoBitCo/FAQDocs/blob/main/Crypto-Deposit-Withdrawal/Crypto-Deposit/How-to-Deposit-Crypto-to-Hitobit/How-to-Deposit-Crypto-to-Hitobit.md) مطالعه کنید.
 
-![photo](How-Do-I-DepositWithdraw-Cryptocurrency-on-Hitobit2.png)
+ 4.	برای برداشت رمزارزها پس از ورود به حساب کاربری خود بر روی منوی **[کیف پول]** و سپس **[کیف پول من]** کلیک کنید.
 
-> توجه داشته باشید که همیشه قبل از سفارش واریز ارز دیجیتال، از صحت آدرس کیف پولی که به آن پرداخت می‌کنید، مطمئن شوید. برای اطلاعات بیشتر مقاله [نحوه برداشت از هیتوبیت](https://github.com/HitoBitCo/FAQDocs/blob/main/Crypto-Deposit-Withdrawal/Crypto-Withdrawal/How-to-Withdraw-from-Hitobit/How-to-Withdraw-from-Hitobit.md) مطالعه کنید.
+ 5. گزینه برداشت را انتخاب و رمزارز، آدرس، شبکه گیرنده و مقدار برداشت را وارد کنید.
 
+
+> توجه داشته باشید که همیشه قبل از سفارش واریز ارز دیجیتال، از صحت آدرس کیف پولی که به آن پرداخت می‌کنید، مطمئن شوید. برای اطلاعات بیشتر مقاله  [نحوه برداشت از هیتوبیت](https://github.com/HitoBitCo/FAQDocs/blob/main/Crypto-Deposit-Withdrawal/Crypto-Withdrawal/How-to-Withdraw-from-Hitobit/How-to-Withdraw-from-Hitobit.md) را مطالعه کنید.
 
 ## سؤالات متداول
 
