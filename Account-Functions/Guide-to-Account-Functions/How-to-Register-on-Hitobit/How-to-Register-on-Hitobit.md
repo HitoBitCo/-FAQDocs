@@ -40,6 +40,6 @@
 
 ![ورود به هیتوبیت](How-to-Register-on-Hitobit7.png)
 
-**8.**	برای افزایش امنیت حساب خود، [احراز هویت دوعاملی](https://github.com/HitoBitCo/FAQDocs/edit/main/Account-Functions/Identity-Verification/How-to-Complete-Identity-Verification/How-to-Complete-Identity-Verification.md) (2FA) را فعال کنید تا تأیید تلفن و احراز هویت گوگل فعال شود.
+**8.**	برای افزایش امنیت حساب خود، [احراز هویت دوعاملی](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Two-factor-Authentication/How-to-Enable-Google-Authentication/How-to-Enable-Google-Authentication.md) (2FA) را فعال کنید تا تأیید تلفن و احراز هویت گوگل فعال شود.
 
 
