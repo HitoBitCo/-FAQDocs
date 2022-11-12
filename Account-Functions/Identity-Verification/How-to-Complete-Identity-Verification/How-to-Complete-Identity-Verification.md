@@ -1,15 +1,15 @@
 # مراحل احراز هویت در هیتوبیت
 
-با ثبت نام در هیتوبیت و ایجاد حساب کاربری وارد سطح 1 می‌شوید. برای ارتقاء سطحی که در حال حاضر در آن قرار داریم طبق مراحل زیر عمل کنید: 
+با ثبت نام در هیتوبیت و ایجاد حساب کاربری وارد سطح صفر می‌شوید. برای ارتقاء سطحی که در حال حاضر در آن قرار داریم طبق مراحل زیر عمل کنید: 
 
-**1.**	برای ارتقا به سطح 2 یا سطح 3 لازم است ابتدا وارد حساب کاربری خود شوید و از منوی حساب کاربری روی **[احراز هویت]** کلیک کنید.
+**1.**	برای ارتقا به سطح 1 یا سطح 2 لازم است ابتدا وارد حساب کاربری خود شوید و از منوی حساب کاربری روی **[احراز هویت]** کلیک کنید.
 
 **2.**	در این قسمت می‌توانید سطح‌های مختلف و محدودیت‌های واریز و برداشت مربوط به هر سطح را مشاهده کنید.
 
 **3.** بر روی **[شروع کنید]** سطح مورد نظر کلیک کنید تا اطلاعات لازم را برای ارتقاء تکمیل کنید.
 
-**4.** برای تکمیل اطلاعات ارتقاء حساب کاربری از [سطح 1 به سطح 2](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Identity-Verification/HowToUpgradeFromLevel1To2/HowToUpgradeFromLevel1To2.md)
- و از [سطح 2 به سطح 3](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Identity-Verification/HowToUpgradeFromLevel2To3/HowToUpgradeFromLevel2To3.md)
+**4.** برای تکمیل اطلاعات ارتقاء حساب کاربری از [سطح صفر به سطح 1](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Identity-Verification/HowToUpgradeFromLevel1To2/HowToUpgradeFromLevel1To2.md)
+ و از [سطح 1 به سطح 2](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Identity-Verification/HowToUpgradeFromLevel2To3/HowToUpgradeFromLevel2To3.md)
  طبق مراحل و نکات دستورالعمل مربوطه اقدام کنید.
  
 ## از کجا می‌توانم حساب کاربری خود را تأیید کنم؟
