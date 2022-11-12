@@ -1,32 +1,29 @@
 #  راهنمای شروع به کار در هیتوبیت
 
-به هیتوبیت خوش آمدید، شما می‌توانید در 4 مرحله سریع و آسان، کار با هیتوبیت را شروع کنید:
+به هیتوبیت خوش آمدید. قبل از شروع لازم است که 4 مرحله زیر را تکمیل نمایید:
 
--	مرحله 1: ثبت‌نام
+-	مرحله 1: ثبت‌نام در هیتوبیت
 -	مرحله 2: احراز هویت 
--	مرحله 3: شارژ حساب 
--	مرحله 4: خرید رمزارز
+-	مرحله 3: شارژ حساب از طریق واریز ریال یا رمزارز
+-	مرحله 4: انجام معامله در بازار هیتوبیت
+<br>
 
-## مرحله 1: ثبت نام
+## مرحله 1: ثبت‌نام در هیتوبیت
+ تنها با شماره موبایل و نام و نام خانوادگی می‌توانید از طریق سایت یا اپلیکیشن هیتوبیت [ثبت‌نام](https://github.com/HitoBitCo/FAQDocs/blob/main/Account-Functions/Guide-to-Account-Functions/How-to-Register-on-Hitobit/How-to-Register-on-Hitobit.md) کنید.
 
-با شماره‌تلفن همراه خود یک حساب کاربری از طریق اپلیکیشن  یا وب‌سایت هیتوبیت ثبت کنید.
+## مرحله 2: احراز هویت<br>
+برای شروع و افزایش سقف واریز و برداشت، لازم است احراز هویت خود را تکمیل کنید. این مرحله شامل تأیید اطلاعات اولیه حساب شما، بارگذاری مدارک شناسایی و یک عکس سلفی می‌باشد.
+لازم به ذکر است اطلاعات حساب کاربری شما در هیتوبیت محفوظ است بااین حال نیاز است تنظیمات بخش [امنیت حساب](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/Security-Tips/How-to-Secure-Your-Hitobit-Account/How-to-Secure-Your-Hitobit-Account.md) را انجام دهید که حساب شما از هرگونه کلاهبرداری ایمن شود.<br>
+برای اطلاعات بیشتر به نکات [امنیتی](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/Security-Tips/Hitobit-Account-Security-Tips/Hitobit-Account-Security-Tips.md) مراجعه کنید.
 
-## مرحله 2: احراز هویت
+## مرحله 3: شارژ حساب از طریق ریال یا رمزارز
 
-برای شروع و افزایش محدودیت‌های واریز و برداشت، باید احراز هویت کنید. این فرآیند تنها چند دقیقه زمان می‌برد که شامل تأیید اطلاعات اولیه حساب شما، ارائه اسناد شناسایی و بارگذاری یک عکس سلفی می‌باشد.
-علاوه بر ایمن نگه‌داشتن حساب‌ها توسط هیتوبیت، لازم است شما نیز حساب کاربری خود را [ایمن کنید](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/Security-Tips/How-to-Secure-Your-Hitobit-Account/How-to-Secure-Your-Hitobit-Account.md). همچنین می‌توانید امنیت حساب هیتوبیت خود را افزایش دهید. برای اطلاعات بیشتر به نکات [امنیتی](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/Security-Tips/Hitobit-Account-Security-Tips/Hitobit-Account-Security-Tips.md) ما مراجعه کنید.
+در صفحه **کیف پول من > واریز** می‌توانید حساب خود را [ریالی](https://github.com/HitoBitCo/FAQDocs/blob/main/Buy-Sell-Crypto-Fiat/How-to-Deposit-Fiat-with-Credit-card/How-to-Deposit-Fiat-with-Credit-card.md) و یا از طریق [واریز رمزارز](https://github.com/HitoBitCo/FAQDocs/blob/main/Crypto-Deposit-Withdrawal/Crypto-Deposit/How-to-Deposit-Crypto-to-Hitobit/How-to-Deposit-Crypto-to-Hitobit.md) شارژ کنید. 
+برای واریز رمزارز می‌توانید از سایر کیف پول‌های خود نیز استفاده نمایید.
 
-## مرحله 3: حساب خود را شارژ کنید
+> **توجه داشته باشید**<br> رمز هیتوبیت و کدهای دوعاملی که برای شما پیامک می‌شود، امنیت حساب شما را تأمین می‌کند بنابراین هرگز این اطلاعات را با دیگران به اشتراک نگذارید.
 
-اگر قبلاً ارزهای دیجیتال را در کیف پول دیگری نگه داشته‌اید، می‌توانید آنها را به کیف پول هیتوبیت خود واریز کنید. برای اطلاعات بیشتر در مورد نحوه واریز و برداشت رمزارز در حساب هیتوبیت خود، به [این قسمت](https://github.com/HitoBitCo/FAQDocs/blob/main/Crypto-Deposit-Withdrawal/Deposit-Withdraw-Guide/How-Do-I-DepositWithdraw-Cryptocurrency-on-Hitobit/How-Do-I-DepositWithdraw-Cryptocurrency-on-Hitobit.md) مراجعه کنید.
-اگر ارز دیجیتال ندارید برای شارژ حساب خود و خرید ریالی به مرحله بعدی بروید.
+## مرحله 4: انجام معامله در بازار هیتوبیت	
 
-> توجه داشته باشید که هرگز رمزهای عبور حساب هیتوبیت/کیف پول، کلیدهای خصوصی یا کدهای دوعاملی خود را با کسی به اشتراک نگذارید.
-
-## مرحله 4: رمزارز بخرید	
-
-با استفاده از کارت‌های بانکی، می‌توانید به‌حساب هیتوبیت خود واریز مستقیم ریالی انجام دهید. پس از آن می‌توانید از موجودی ریالی خود برای خرید مستقیم رمزارزها استفاده کنید.
-
-
-
+بعد از اینکه حسابتان شارژ شد می‌توانید با توجه به سطح کاربری خود در بازار هیتوبیت [خرید و فروش رمزارز](https://github.com/HitoBitCo/FAQDocs/blob/main/Spot-Trading/How-to-Trade-Spot-on-Hitobit-Website/How-to-Trade-Spot-on-Hitobit-Website.md) را شروع کنید.
 
