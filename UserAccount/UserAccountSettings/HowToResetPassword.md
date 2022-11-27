@@ -29,6 +29,7 @@
 
 ![photo](./Images/How-to-Reset-Your-Hitobit-Account-Password6.png)
 
+
 **5.**	بازیابی رمز عبور: رمز عبور جدید خود را وارد کرده و روی **[تایید]** کلیک کنید.
 
 ![photo](./Images/How-to-Reset-Your-Hitobit-Account-Password3.png)
@@ -37,5 +38,8 @@
 **6.**	رمز عبور شما با موفقیت بازیابی شد. زین پس از رمز عبور جدید برای ورود به‌حساب کاربری خود استفاده کنید.
 
 ![photo](./Images/How-to-Reset-Your-Hitobit-Account-Password4.png)
+
+
+تست
 
 
