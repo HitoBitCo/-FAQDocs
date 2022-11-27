@@ -40,6 +40,5 @@
 ![photo](./Images/How-to-Reset-Your-Hitobit-Account-Password4.png)
 
 
-تست
 
 
