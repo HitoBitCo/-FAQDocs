@@ -6,23 +6,23 @@
 
 **1.**	پس از ورود به‌حساب هیتوبیت خود، از صفحه داشبورد روی **[مدیریت APIها]** کلیک کنید.
 
-![photo](How-to-Create-API5.png)
+![photo](./Images/How-to-Create-API5.png)
 
 
 **2.**	یک نام برای کلید API خود وارد کنید و روی **[ایجاد API]** کلیک کنید.
 
-![photo](How-to-Create-API1.png)
+![photo](./Images/How-to-Create-API1.png)
 
 
 > **نکته امنیتی:** قبل از ایجاد یک API، باید احراز هویت دوعاملی (2FA) را در حساب خود فعال کنید.
 
 **3.**	کد دریافت شده در موبایل را در قسمت **[کد تایید]** و رمز دریافت شده از Google authenticator را در **[کد احراز هویت]** وارد کنید. پس از تکمیل مقادیر، بر روی گزینه **[ارسال]** کلیک کنید.
 
-![photo](How-to-Create-API2.png)
+![photo](./Images/How-to-Create-API2.png)
 
 **4.**	اکنون API شما ایجاد شده است.
 
-![photo](How-to-Create-API4.png)
+![photo](./Images/How-to-Create-API4.png)
 
 1. کلید api: کلید api را کپی کرده و در قسمت مد نظر استفاده کنید.
 
