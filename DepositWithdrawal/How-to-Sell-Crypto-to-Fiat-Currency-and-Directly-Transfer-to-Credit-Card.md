@@ -4,7 +4,7 @@
 
 **1.**	وارد حساب هیتوبیت خود شوید و روی **[خرید و فروش سریع]** کلیک کنید.
 
-![photo](How-to-Sell-Crypto-to-Fiat-Currency-and-Directly-Transfer-to-Credit-Card1.png)
+![photo](./Images/How-to-Sell-Crypto-to-Fiat-Currency-and-Directly-Transfer-to-Credit-Card1.png)
 
 **2.**	روی **[فروش]** کلیک کنید.
 
@@ -14,7 +14,7 @@
 
 - پس از تکمیل مقادیر لازم، مبلغ دریافتی شما در پایین صفحه نمایش داده می‌شود.
   
-![photo](How-to-Sell-Crypto-to-Fiat-Currency-and-Directly-Transfer-to-Credit-Card2.png)
+![photo](./Images/How-to-Sell-Crypto-to-Fiat-Currency-and-Directly-Transfer-to-Credit-Card2.png)
 
 **3.**	در انتها روی دکمه **[ادامه]** کلیک کنید.
 
