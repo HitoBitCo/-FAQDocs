@@ -1,11 +1,11 @@
 # واریز و برداشت ارزهای دیجیتال  در هیتوبیت
 1. برای واریز رمزارزها پس از ورود به حساب کاربری خود بر روی منوی **[کیف پول]** و سپس **[کیف پول من]** کلیک کنید.
 
-![منو کیف پول در صفحه داشبورد](How-Do-I-DepositWithdraw-Cryptocurrency-on-Hitobit1.png)
+![منو کیف پول در صفحه داشبورد](./Images/How-Do-I-DepositWithdraw-Cryptocurrency-on-Hitobit1.png)
 
 2. گزینه **[واریز]** را انتخاب و سپس ارز مورد نظر و شبکه خود را وارد کنید.
 
-![واریز و برداشت از کیف پول](deposit-withdraw-cryptocurrency.png)
+![واریز و برداشت از کیف پول](./Images/deposit-withdraw-cryptocurrency.png)
 
  برای اطلاعات بیشتر مقاله [نحوه واریز رمزارز به هیتوبیت](https://github.com/HitoBitCo/FAQDocs/blob/main/Crypto-Deposit-Withdrawal/Crypto-Deposit/How-to-Deposit-Crypto-to-Hitobit/How-to-Deposit-Crypto-to-Hitobit.md) مطالعه کنید.
 
