@@ -12,16 +12,16 @@
 
 **1.** وارد حساب هیتوبیت خود شوید و روی **[معرفی به دوستان]** در صفحه اصلی کلیک کنید.
 
-![photo](Referral-Affiliate4.png)
+![photo](./Images/Referral-Affiliate4.png)
 
 
 کد معرفی خود را کپی و از طریق شبکه‌های اجتماعی برای دوستان خود ارسال کنید.
 
-![photo](Referral-Affiliates1.png)
+![photo](./Images/Referral-Affiliates1.png)
 
-![photo](Referral-Affiliates2.png)
+![photo](./Images/Referral-Affiliates2.png)
 
-![photo](Referral-Affiliates3.png)
+![photo](./Images/Referral-Affiliates3.png)
 
 
 **2.**	دوست معرفی شده توسط شما باید کد معرف شما در زمان ثبت‌نام در هیتوبیت وارد نماید.
