@@ -14,9 +14,9 @@
 
 **1.**	وارد حساب هیتوبیت خود شوید و در بالای صفحه سمت راست وارد **[معامله پیشرفته]** شوید. 
 
-![photo](How-to-Use-TradingView-on-Hitobit-Website1.png)
+![photo](./Images/How-to-Use-TradingView-on-Hitobit-Website1.png)
 
-![photo](How-to-Use-TradingView-on-Hitobit-Website2.png)
+![photo](./Images/How-to-Use-TradingView-on-Hitobit-Website2.png)
 
 **2.**	روی **[TradingView]** در بالای نمودار کلیک کنید تا به ابزارهای معاملاتی موجود و نمودارهای مختلف دسترسی کامل داشته باشید.
 
@@ -35,7 +35,7 @@
 -	**[پس‌زمینه]** گزینه‌هایی را برای تغییر ظاهر پس‌زمینه کندل‌ها ارائه می‌کند.
 -	**[Timezone/Sessions]** به شما این امکان را می‌دهد منطقه زمانی خود را انتخاب کنید.
 
-![photo](How-to-Use-TradingView-on-Hitobit-Website3.png)
+![photo](./Images/How-to-Use-TradingView-on-Hitobit-Website3.png)
 
 ## فواصل زمانی کندل‌ها 
 
@@ -43,7 +43,7 @@
 
 در اینجا می‌توانید بازه جدیدی را انتخاب کنید یا دکمه **[ویرایش]** را فشار دهید تا فواصل بیشتری به گزینه‌های پیش‌فرض خود اضافه کنید.
 
-![photo](How-to-Use-TradingView-on-Hitobit-Website4.png)
+![photo](./Images/How-to-Use-TradingView-on-Hitobit-Website4.png)
 
 ## ابزار رسم
 
@@ -57,7 +57,7 @@
 
 **1.**	ابزار **[Long Position]** یا **[Short Position]** را انتخاب کنید.
 
-![photo](How-to-Use-TradingView-on-Hitobit-Website5.png)
+![photo](./Images/How-to-Use-TradingView-on-Hitobit-Website5.png)
 
 **2.**	برای ایجاد موقعیت بلند/کوتاه خود، روی نمودار کلیک کنید. ناحیه سایه‌دار سبز نشان‌دهنده هدف شما (سود) است، درحالی‌که رنگ قرمز منطقه توقف ضرر (زیان احتمالی) شما را نشان می‌دهد. در مرکز، می‌توانید نسبت ریسک/پاداش را ببینید.
 
@@ -71,7 +71,7 @@
 برای ایجاد خطوط روند، به‌سادگی روی ابزار **[Trend Line]** کلیک کنید و ابتدا و انتهای خط روند خود را انتخاب کنید.
 در زیر نمونه‌ای از یک خط روند ساده است که نقاط ورود احتمالی به بازار را نشان می‌دهد. ضخامت، رنگ و سایر ویژگی‌ها با استفاده از جعبه ابزار شناور قابل تنظیم هستند.
 
-![photo](How-to-Use-TradingView-on-Hitobit-Website6.png)
+![photo](./Images/How-to-Use-TradingView-on-Hitobit-Website6.png)
 
 ## اندیکاتورهای تکنیکال
 
@@ -83,5 +83,5 @@
 
 برای حذف اندیکاتورها، کافی است روی آن کلیک کنید تا جعبه ابزار شناور ظاهر شود، سپس روی نماد حذف کلیک کنید.
 اگر می‌خواهید کل نمودار را در حالت پیشفرض بازیابی کنید، روی هر نقطه از نمودار کلیک راست کرده و روی **[تنظیمات پیشفرض نمودار]** کلیک کنید، یا [Alt + R] را روی صفحه‌کلید خود فشار دهید.
-![photo](How-to-Use-TradingView-on-Hitobit-Website7.png)
+![photo](./Images/How-to-Use-TradingView-on-Hitobit-Website7.png)
 
