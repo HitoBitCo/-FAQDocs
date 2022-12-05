@@ -33,15 +33,16 @@
 
 ![تأیید شماره تلفن](./Images/phone-number-verification.png)
 
-**6.**	نام و نام خانوادگی خود را وارد و بر روی **[ثبت اطلاعات]** کنید.
+**6.**	نام و نام خانوادگی خود را وارد و بر روی **[ثبت اطلاعات]** کلیک کنید.
 
 ![تکمیل اطلاعات حساب کاربری](./Images/personal-information-authentication.png)
 
-**7.**	تبریک می‌گوییم، شما با موفقیت در هیتوبیت ثبت‌نام کردید.
+**7.**	ثبت‌نام شما با موفقیت در هیتوبیت انجام شد.
 
 ![ورود به هیتوبیت](./Images/hitobit-login.png)
 
 > **نکته**<br>
 >با ثبت‌نام در هیتوبیت شما در سطح صفر حساب کاربری قرار می‌گیرید.
 
-**8.**	برای افزایش امنیت حساب خود، [احراز هویت دوعاملی](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/SetUpTwo-FactorAuthentication.md) (2FA) را فعال کنید تا تأیید تلفن و احراز هویت گوگل فعال شود.
+**8.** امنيت حساب کاربري اهميت ويژه‌ای دارد، به همين دليل براي افزايش آن توصيه می‌شود .
+ [احراز هویت دوعاملی](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/SetUpTwo-FactorAuthentication.md) (2FA) را فعال کنید.
