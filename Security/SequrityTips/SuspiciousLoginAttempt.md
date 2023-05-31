@@ -10,7 +10,7 @@
 ایمیل ثبت‌شده در حساب کاربری خود را بررسی کنید، در صورتی که متعلق به شما نیست آن را حذف و ایمیل صحیح را وارد کنید. برای اطلاعات بیشتر به [تغییر ایمیل](https://github.com/HitoBitCo/FAQDocs/blob/main/UserAccount/UserAccountSettings/ChangeEmail.md) مراجعه کنید.
 ## ایمیل خود را امن کنید
 اطمینان پیدا کنید که ایمیل متصل به حساب کاربری امن است و شما تنها فردی هستید که به آن دسترسی دارید.
-## فعال کردن کد دو عاملی گوگل
- در صورت فعال نبودن کد دو عاملی گوگل آن را بر روی حساب خود در هیتوبیت فعال کنید. برای اطلاعات بیشتر به [فعال‌سازی کد دوعاملی گوگل](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/SetUpTwo-FactorAuthentication.md) مراجعه کنید.
+## فعال کردن شناسایی دو عاملی 
+ در صورت فعال نبودن شناسایی دو عاملی آن را بر روی حساب خود در هیتوبیت فعال کنید. برای اطلاعات بیشتر به [فعال‌سازی شناسایی دوعاملی](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/SetUpTwo-FactorAuthentication.md) مراجعه کنید.
 ## گزارش فعالیت‌ها و تراکنش‌های مشکوک
 با مشاهده هرگونه فعالیت یا تراکنش مشکوک آنها را به پشتیبانی هیتوبیت گزارش دهید.
