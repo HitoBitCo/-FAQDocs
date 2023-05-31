@@ -20,7 +20,7 @@
 برای شارژ حساب خود به‌صورت [تومانی](https://github.com/HitoBitCo/FAQDocs/blob/main/Buy-Sell-Crypto-Fiat/How-to-Deposit-Fiat-with-Credit-card/How-to-Deposit-Fiat-with-Credit-card.md)  یا از طریق [واریز رمزارز](https://github.com/HitoBitCo/FAQDocs/blob/main/Crypto-Deposit-Withdrawal/Crypto-Deposit/How-to-Deposit-Crypto-to-Hitobit/How-to-Deposit-Crypto-to-Hitobit.md)  از مسیر **کیف پول > کیف پول من > واریز** اقدام کنید. 
 به‌منظور واریز رمزارز می‌توانید از سایر کیف پول‌های خود نیز استفاده کنید.
 
-> **توجه**<br> رمز هیتوبیت و کدهای دوعاملی که برای شما پیامک می‌شود، امنیت حساب شما را تأمین می‌کند، بنابراین هرگز این اطلاعات را با دیگران به اشتراک نگذارید.
+> **توجه**<br> رمز هیتوبیت و کدهای شناسایی دو عاملی امنیت حساب شما را تأمین می‌کند، بنابراین هرگز این اطلاعات را با دیگران به اشتراک نگذارید.
 
 ## مرحله چهارم: انجام معامله در بازار هیتوبیت	
 
