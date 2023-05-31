@@ -1,22 +1,22 @@
-#  سوالات متداول کد ورود دوعاملی گوگل
+#  سوالات متداول شناسایی دوعاملی گوگل
 
 
 ### **1.**	دسترسی به برنامه Google Authenticator قبلی خود را از دست دادم. چگونه می‌توانم دوباره آن را فعال کنم؟
 
 - اگر کد 16 رقمی ایجاد شده در هنگام فعال‌کردن Google Authenticator را یادداشت کرده‌اید، می‌توانید به‌سادگی با واردکردن کد پشتیبان در برنامه، Google Authenticator خود را دوباره فعال کنید.
 
-- اگر کد پشتیبان را ذخیره نکرده‌اید،  Google Authenticator خود را بازیابی  و دوباره حساب Google Authenticator جدید ایجاد کنید. برای این منظور به نحوه [بازیابی کد دو عاملی گوگل](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/ResetTwo-FactorAuthentication.md) مراجعه کنید.
+- اگر کد پشتیبان را ذخیره نکرده‌اید،  Google Authenticator خود را بازیابی  و دوباره حساب Google Authenticator جدید ایجاد کنید. برای این منظور به نحوه [بازیابی شناسایی دو عاملی ](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/ResetTwo-FactorAuthentication.md) مراجعه کنید.
 
 ### **2.**	هنگام نمایش پیغام خطای «کد دوعاملی اشتباه است» چه کاری می‌توانم انجام دهم؟
 -	زمان را روی تلفن همراه (برای همگام‌سازی برنامه Google Authenticator) و رایانه خود (که می‌خواهید از آن وارد شوید) همگام کنید.
 - با حالت ناشناس در Google Chrome  صفحه ورود هیتوبیت را باز کنید.
 -	کش و کوکی‌های مرورگر خود را پاک کنید.
 -	سعی کنید از اپلیکیشن Hitobit وارد شوید.
-اگر هیچ یک از پیشنهادهای بالا مشکل شما را حل نکرد،  Google Authenticator خود را بازیابی کنید. برای این منظور  به نحوه [بازیابی کد دوعاملی گوگل](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/ResetTwo-FactorAuthentication.md) مراجعه کنید.
+اگر هیچ یک از پیشنهادهای بالا مشکل شما را حل نکرد،  Google Authenticator خود را بازیابی کنید. برای این منظور  به نحوه [بازیابی شناسایی دوعاملی](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/ResetTwo-FactorAuthentication.md) مراجعه کنید.
 
 ### **3.** چرا نمی‌توانم کدهای تأیید پیامک را دریافت کنم؟
 
-اگر روی دریافت مجدد کد تأیید پیامکی کلیک کرده‌اید، اما همچنان نمی‌توانید کدهای پیامک را دریافت کنید، مراحل زیر را انجام دهید:
+اگر روی دریافت مجدد کد تأیید پیامکی کلیک کرده‌اید، اما همچنان نمی‌توانید کد را دریافت کنید، مراحل زیر را انجام دهید:
 
 - 	مطمئن شوید که تلفن همراه شما سیگنال شبکه خوبی دارد.
 - 	آنتی‌ویروس، فایروال و یا برنامه‌های مسدودکننده پیامک را در تلفن همراه خود غیرفعال کنید، ممکن است شماره  پیامک هیتوبیت را مسدود کنند.
