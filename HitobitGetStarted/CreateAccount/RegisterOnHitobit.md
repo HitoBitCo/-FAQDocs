@@ -44,5 +44,4 @@
 > **توجه**<br>
 >با ثبت‌نام در هیتوبیت شما در سطح صفر حساب کاربری قرار می‌گیرید.
 
-**8.** امنيت حساب کاربري اهميت ويژه‌ای دارد، به همين دليل براي افزايش آن توصيه می‌شود .
- [احراز هویت دوعاملی](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/SetUpTwo-FactorAuthentication.md) (2FA) را فعال کنید.
+**8.** امنیت حساب کاربری اهمیت ویژه‌ای دارد، به همین دلیل برای افزایش آن توصیه می‌شود [شناسایی دو عاملی](https://github.com/HitoBitCo/FAQDocs/blob/main/Security/SequritySettings/Two-FactorAutenticathion/SetUpTwo-FactorAuthentication.md) (2FA) را فعال کنید.
